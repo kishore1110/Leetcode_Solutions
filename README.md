@@ -1,2 +1,2 @@
 # My-leetcode-solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
+Welcome to my LeetCode solutions repository! This is a collection of solutions to various LeetCode problems that I have solved, categorized for easy navigation. I hope these solutions help others in their coding journey!
