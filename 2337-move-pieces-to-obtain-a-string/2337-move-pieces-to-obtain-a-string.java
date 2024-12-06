@@ -1,41 +1,27 @@
 class Solution {
     public boolean canChange(String start, String target) {
-        if (start.equals(target)) {
-            return true;
+        int left=0;
+        int right=0;
+        int limit=-1;
+        int startLen=start.length();
+        int targetLen=target.length();
+        while(left<startLen){
+            while(left<startLen && start.charAt(left)=='_')left++;
+            while(right<targetLen && target.charAt(right)=='_')right++;
+            if(left==startLen && right==targetLen)return true;
+            if(left==startLen || right==targetLen || start.charAt(left)!=target.charAt(right))return false;
+            if(start.charAt(left)=='L'){
+                if(right>left || right<=limit)return false;
+            }
+            else if(start.charAt(left)=='R'){
+                if(right<left)return false;
+            }
+            limit=right;
+            left++;
+            right++;
         }
-        int waitL = 0;
-        int waitR = 0;
-        
-        for (int i = 0; i < start.length(); i++) {
-            char curr = start.charAt(i);
-            char goal = target.charAt(i);
-            
-            if (curr == 'R') {
-                if (waitL > 0) {
-                    return false;
-                }
-                waitR++;
-            }
-            if (goal == 'L') {
-                if (waitR > 0) {
-                    return false;
-                }
-                waitL++;
-            }
-            if (goal == 'R') {
-                if (waitR == 0) {
-                    return false;
-                }
-                waitR--;
-            }
-            if (curr == 'L') {
-                if (waitL == 0) {
-                    return false;
-                }
-                waitL--;
-            }
-        }
-        
-        return waitL == 0 && waitR == 0;
+        while(left<startLen && start.charAt(left)=='_')left++;
+        while(right<targetLen && target.charAt(right)=='_')right++;
+        return left==startLen && right==targetLen; 
     }
 }
