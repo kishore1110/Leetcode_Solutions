@@ -36,6 +36,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1127-last-stone-weight) |
 ## Math
@@ -58,4 +59,16 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
