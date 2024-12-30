@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
 ## Design
 |  |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
