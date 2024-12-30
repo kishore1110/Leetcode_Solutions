@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0724-find-pivot-index](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
