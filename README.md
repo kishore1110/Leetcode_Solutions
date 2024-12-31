@@ -30,6 +30,7 @@
 | [0724-find-pivot-index](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1025-minimum-cost-for-tickets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1127-last-stone-weight](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Greedy
@@ -98,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-minimum-cost-for-tickets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Recursion
 |  |
