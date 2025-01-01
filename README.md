@@ -95,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Dynamic Programming
 |  |
@@ -109,4 +110,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
