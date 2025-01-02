@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0812-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
