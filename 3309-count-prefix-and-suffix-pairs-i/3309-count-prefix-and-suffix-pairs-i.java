@@ -9,10 +9,6 @@ class Solution {
         return count;
     }
     public boolean valid(String str1,String str2){
-        if(str1.length()>str2.length()){
-            return false;
-        }
-        int len=str1.length();
-        return str1.equals(str2.substring(0,len)) && str1.equals(str2.substring(str2.length()-len));
+        return str2.startsWith(str1) && str2.endsWith(str1);
     }
 }
