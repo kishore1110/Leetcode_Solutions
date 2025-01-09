@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Matrix
 |  |
 | ------- |
@@ -204,4 +205,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
