@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -85,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
