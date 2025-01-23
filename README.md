@@ -20,6 +20,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -29,6 +30,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1876-map-of-highest-peak) |
@@ -58,6 +60,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1127-last-stone-weight](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -151,6 +154,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2145-grid-game) |
@@ -205,6 +209,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
 |  |
@@ -277,4 +282,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
