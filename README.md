@@ -91,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -161,6 +162,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0812-rotate-string) |
@@ -207,6 +209,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
