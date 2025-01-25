@@ -82,6 +82,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
@@ -125,6 +126,7 @@
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
