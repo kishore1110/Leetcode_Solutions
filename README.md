@@ -80,6 +80,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
@@ -125,6 +126,7 @@
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -232,6 +235,7 @@
 | [0724-find-pivot-index](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -341,6 +345,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1755-defuse-the-bomb) |
 ## Backtracking
 |  |
