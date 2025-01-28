@@ -1,17 +1,22 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        map.put(0,1);
-        int subCount=0;
-        int prefixCount=0;
-        for(int value:nums){
-            prefixCount+=value%2;
-            int required=prefixCount-k;
-            if(map.containsKey(required)){
-                subCount+=map.get(required);
-            }
-            map.put(prefixCount,map.getOrDefault(prefixCount,0)+1);
+        return helper(nums,k)-helper(nums,k-1);   
+    }
+    public int helper(int[] nums,int goal){
+        if(goal<0){
+            return 0;
         }
-        return subCount;
+        int result=0;
+        int left=0;
+        int currOddCount=0;
+        for(int right=0;right<nums.length;right++){
+            currOddCount+=nums[right]%2;
+            while(currOddCount>goal){
+                currOddCount-=nums[left]%2;
+                left++;
+            }
+            result+=(right-left+1);
+        }
+        return result;
     }
 }
