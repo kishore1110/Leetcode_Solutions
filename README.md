@@ -92,6 +92,7 @@
 | [2145-grid-game](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -161,6 +162,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
+| [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
@@ -194,6 +196,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2145-grid-game) |
+| [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Merge Sort
@@ -259,6 +262,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## String Matching
 |  |
 | ------- |
