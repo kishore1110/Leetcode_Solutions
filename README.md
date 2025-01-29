@@ -177,6 +177,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
+| [0969-number-of-recent-calls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 ## Binary Search
 |  |
@@ -359,4 +360,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
