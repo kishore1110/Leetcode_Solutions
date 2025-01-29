@@ -7,7 +7,6 @@ class RecentCounter {
     public int ping(int t) {
         queue.add(t);
         int limit=t-3000;
-        if(limit<0)return queue.size();
         while(queue.peek()<limit){
             queue.poll();
         }
