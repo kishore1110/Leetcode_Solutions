@@ -143,6 +143,7 @@
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quickselect
 |  |
@@ -157,6 +158,7 @@
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -209,6 +211,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -248,6 +251,7 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
