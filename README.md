@@ -111,6 +111,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0890-lemonade-change) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Recursion
 |  |
 | ------- |
