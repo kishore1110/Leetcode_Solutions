@@ -11,6 +11,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -22,6 +23,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -41,6 +43,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -62,6 +65,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Array
