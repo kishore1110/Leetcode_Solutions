@@ -29,6 +29,7 @@ class Solution {
     public int findParent(int node,int[]parent){
         int par=parent[node];
         while(par!=parent[par]){
+            par=parent[parent[par]];
             par=parent[par];
         }
         return par;
