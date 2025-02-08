@@ -154,6 +154,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2434-design-a-number-container-system](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -223,6 +225,7 @@
 | [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
 | [0969-number-of-recent-calls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0969-number-of-recent-calls) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
+| [2434-design-a-number-container-system](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -442,4 +445,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0969-number-of-recent-calls) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
