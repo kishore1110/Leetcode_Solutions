@@ -1,21 +1,31 @@
 class Solution {
     public int[] queryResults(int limit, int[][] queries) {
-        Map<Integer,Integer> ball = new HashMap<>(), color = new HashMap<>();
-        int n = queries.length, distinct = 0;
-        int[] ans = new int[n];
-        for (int i = 0; i < n; i++){
-            int pos = queries[i][0], c = queries[i][1];
-            if(ball.containsKey(pos)){
-                int cnt = color.get(ball.get(pos)) - 1;
-                if(cnt == 0){ color.remove(ball.get(pos)); distinct--; }
-                else color.put(ball.get(pos), cnt);
+        HashMap<Integer,Integer> map=new HashMap<>();
+        int distinct=0;
+        HashMap<Integer,Integer> freq=new HashMap<>();
+        int[] result=new int[queries.length];
+        int index=0;
+        for(int[] query:queries){
+            int ball=query[0];
+            int change=query[1];
+            if(freq.containsKey(ball)){
+                int prevColor=freq.get(ball);
+                map.put(prevColor,map.get(prevColor)-1);
+                if(map.get(prevColor)==0){
+                    map.remove(prevColor);
+                    distinct--;
+                }
             }
-            ball.put(pos, c);
-            int cnt = color.getOrDefault(c, 0) + 1;
-            color.put(c, cnt);
-            if(cnt == 1) distinct++;
-            ans[i] = distinct;
+            freq.put(ball,change);
+            if(!map.containsKey(change)){
+                distinct++;
+                map.put(change,1);
+            }
+            else{
+                map.put(change,map.get(change)+1);
+            }
+            result[index++]=distinct;
         }
-        return ans;
+        return result;
     }
 }
