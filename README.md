@@ -116,6 +116,7 @@
 | [1876-map-of-highest-peak](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
@@ -167,6 +168,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
 |  |
@@ -206,6 +208,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -316,6 +319,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
