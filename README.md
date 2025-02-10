@@ -281,6 +281,7 @@
 | [2465-shifting-letters-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
@@ -331,6 +332,7 @@
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 | [0883-car-fleet](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0883-car-fleet) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
