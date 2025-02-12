@@ -1,13 +1,18 @@
 class Solution {
     public int maximumSum(int[] nums) {
-        HashMap<Integer,PriorityQueue<Integer>> map=new HashMap<>();
+        HashMap<Integer,Integer> map=new HashMap<>();
         int maxSum=-1;
         for(int value:nums){
             int SOD=sumOfDigits(value);
             if(map.containsKey(SOD)){
-                maxSum=Math.max(maxSum,value+map.get(SOD).peek());
+                maxSum=Math.max(maxSum,value+map.get(SOD));
+                if(map.get(SOD)<value){
+                    map.put(SOD,value);
+                }
             }
-            map.computeIfAbsent(SOD,k->new PriorityQueue<>((a,b)->b-a)).add(value);
+            else{
+                map.put(SOD,value);
+            }
         }
         return maxSum;
     }
