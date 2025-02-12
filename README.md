@@ -163,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0202-happy-number) |
