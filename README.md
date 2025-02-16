@@ -114,6 +114,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1755-defuse-the-bomb) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -466,6 +467,7 @@
 | [0046-permutations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0078-subsets) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
