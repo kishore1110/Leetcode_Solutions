@@ -215,6 +215,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -282,6 +283,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0812-rotate-string) |
+| [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1524-string-matching-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -467,6 +470,7 @@
 | [0046-permutations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0078-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
