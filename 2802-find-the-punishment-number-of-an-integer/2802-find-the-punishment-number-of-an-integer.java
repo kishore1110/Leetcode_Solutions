@@ -1,29 +1,23 @@
 class Solution {
     public int punishmentNumber(int n) {
-        //to store punishment number
-        int punishmentNum = 0;
-
-        //traverse the array
-        for(int curr = 1;curr <= n ;curr++){
-
-            //finding square
-            int square = curr*curr;
-            
-            if(canPartition(square,curr))
-              punishmentNum += square;
-        }
-
-        return punishmentNum;
-
+        int result=0;
+         for(int i=1;i<=n;i++){
+            if(isPunishment(0, 0, i, String.valueOf(i*i))){
+                result+=i*i;
+            }
+         }
+         return result;
     }
-    public boolean canPartition(int num, int target){
-        //invalid
-        if(num < target || target < 0)
-          return false;
-
-        if(num == target)
-          return true;
-
-        return (canPartition(num/10,target-(num%10)) || canPartition(num/100,target-(num%100)) || canPartition(num/1000,target-(num%1000)));
+    public boolean isPunishment(int index,int currSum,int target,String value){
+        if(index>=value.length() && currSum==target){ // base case
+            return true;
+        }
+        for(int j=index;j<value.length();j++){
+            String curr=value.substring(index,j+1);
+            if(isPunishment(j+1,currSum+Integer.valueOf(curr),target,value)){
+                return true;
+            }
+        }
+        return false;
     }
 }
