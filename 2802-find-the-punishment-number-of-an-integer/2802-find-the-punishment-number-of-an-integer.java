@@ -12,6 +12,9 @@ class Solution {
         if(index>=value.length() && currSum==target){
             return true;
         }
+        if(currSum>target){
+            return false;
+        }
         for(int j=index;j<value.length();j++){
             String currString=value.substring(index,j+1);
             if(isPunishment(j+1,currSum+Integer.valueOf(currString),target,value)){
