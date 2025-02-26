@@ -1,20 +1,20 @@
 class Solution {
-    int count=-1;
+    int count=0;
     public int numTilePossibilities(String tiles) {
-        HashMap<Character,Integer> map=new HashMap<>();
+        int[] freq=new int[26];
         for(int i=0;i<tiles.length();i++){
-            map.put(tiles.charAt(i),map.getOrDefault(tiles.charAt(i),0)+1);
+            freq[tiles.charAt(i)-'A']++;
         }
-        backtrack(map);
+        backtrack(freq);
         return count;
     }
-    public void backtrack(HashMap<Character,Integer> map){
-        count++;
-        for(char key:map.keySet()){
-            if(map.get(key)>0){
-                map.put(key,map.get(key)-1);
-                backtrack(map);
-                map.put(key,map.get(key)+1);
+    public void backtrack(int[] freq){
+        for(int i=0;i<26;i++){
+            if(freq[i]>0){
+                freq[i]--;
+                count++;
+                backtrack(freq);
+                freq[i]++;
             }
         }
     }
