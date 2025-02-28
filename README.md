@@ -288,6 +288,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -379,6 +381,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0883-car-fleet](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0883-car-fleet) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
