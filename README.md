@@ -130,6 +130,7 @@
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2145-grid-game](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
