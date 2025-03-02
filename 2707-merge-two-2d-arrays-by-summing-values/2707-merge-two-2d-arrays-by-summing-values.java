@@ -12,11 +12,11 @@ class Solution {
                 right++;
             }
             else if(elem1<elem2){
-                result.add(new int[]{elem1,nums1[left][1]});
+                result.add(nums1[left]);
                 left++;
             }
             else{
-                result.add(new int[]{elem2,nums2[right][1]});
+                result.add(nums2[right]);
                 right++;
             }
         }
@@ -28,10 +28,6 @@ class Solution {
             result.add(nums2[right]);
             right++;
         }
-        int[][] arr=new int[result.size()][2];
-        for(int i=0;i<result.size();i++){
-            arr[i]=result.get(i);
-        }
-        return arr;
+        return result.toArray(new int[0][]);
     }
 }
