@@ -7,7 +7,7 @@ class Solution {
             }
             
         }
-        HashMap<Integer,List<Integer>> map=new HashMap<>();
+        ArrayList<Integer> result=new ArrayList<>();
         int maxScore=-1;
         int zeroLeft=0;
         int oneLeft=0;
@@ -19,15 +19,23 @@ class Solution {
             else{
                 oneLeft++;
             }
-            if(score>=maxScore){
+            if(score==maxScore){
+                result.add(i);
+            }
+            if(score>maxScore){
                 maxScore=score;
-                map.computeIfAbsent(maxScore,k->new ArrayList<Integer>()).add(i);
+                result.clear();
+                result.add(i);
             }
         }
-        if(zeroLeft>=maxScore){
-            maxScore=zeroLeft;
-            map.computeIfAbsent(maxScore,k->new ArrayList<Integer>()).add(nums.length);
+        if(zeroLeft==maxScore){
+            result.add(nums.length);
         }
-        return map.get(maxScore);
+        else if(zeroLeft>maxScore){
+            maxScore=zeroLeft;
+            result.clear();
+            result.add(nums.length);
+        }
+        return result;
     }
 }
