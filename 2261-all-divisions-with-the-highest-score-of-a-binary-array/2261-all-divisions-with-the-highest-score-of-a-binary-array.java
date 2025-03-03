@@ -1,11 +1,8 @@
 class Solution {
     public List<Integer> maxScoreIndices(int[] nums) {
         int totalOne=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==1){
-                totalOne++;
-            }
-            
+        for(int bit:nums){
+            totalOne+=bit;
         }
         ArrayList<Integer> result=new ArrayList<>();
         int maxScore=-1;
