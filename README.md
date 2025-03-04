@@ -188,6 +188,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
