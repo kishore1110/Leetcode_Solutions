@@ -1,17 +1,20 @@
 class Solution {
     public boolean checkPowersOfThree(int n) {
-        return check(n,0);
-    }
-    public boolean check(int n,int reminder){
-        if(n==2 || reminder>1){
-            return false;
+        while(n>0){
+            if(n%3==2){
+                return false;
+            }
+            n/=3;
         }
-        if(n<3 && (reminder==0 || reminder==1)){
+        return true;
+    }
+    public boolean backtrack(int n,int power,int currentSum){
+        if(currentSum==n){
             return true;
         }
-        else if(n<3 && reminder>1){
+        if(currentSum>n){
             return false;
         }
-        return check(n/3,n%3);
+        return backtrack(n,power+1,currentSum+(int)Math.pow(3,power)) || backtrack(n,power+1,currentSum);
     }
 }
