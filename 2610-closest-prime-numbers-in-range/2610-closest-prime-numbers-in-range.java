@@ -6,8 +6,8 @@ class Solution {
         prime[1]=false;
         for(int i=2;i*i<=right;i++){
             if(prime[i]){
-                for(long j=i*i;j<=right;j+=i){
-                    prime[(int)j]=false;
+                for(int j=i*i;j<=right;j+=i){
+                    prime[j]=false;
                 }
             }
         }
