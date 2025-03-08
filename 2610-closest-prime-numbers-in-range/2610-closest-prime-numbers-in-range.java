@@ -4,7 +4,7 @@ class Solution {
         Arrays.fill(prime,true);
         prime[0]=false;
         prime[1]=false;
-        for(int i=2;i*i<=right;i++){
+        for(int i=2;i<=Math.sqrt(right);i++){
             if(prime[i]){
                 for(int j=i*i;j<=right;j+=i){
                     prime[j]=false;
