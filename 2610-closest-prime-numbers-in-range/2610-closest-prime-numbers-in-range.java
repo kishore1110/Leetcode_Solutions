@@ -28,14 +28,14 @@ class Solution {
             }
         }
         int[] result=new int[2];
-        int[][] sortedList=new int[count-1][3];
-        index=0;
+        int diff=Integer.MAX_VALUE;
         for(int i=1;i<count;i++){
-            sortedList[index++]=new int[]{primeNums[i]-primeNums[i-1],primeNums[i-1],primeNums[i]};
+            if(primeNums[i]-primeNums[i-1]<diff){
+                diff=primeNums[i]-primeNums[i-1];
+                result[0]=primeNums[i-1];
+                result[1]=primeNums[i];
+            }
         }
-        Arrays.sort(sortedList,(a,b)->a[0]==b[0]?a[1]-b[1]:a[0]-b[0]);
-        result[0]=sortedList[0][1];
-        result[1]=sortedList[0][2];
         return result;
     }
 }
