@@ -1,45 +1,38 @@
 class Solution {
     int[][] directions={{0,1},{0,-1},{1,0},{-1,0}};
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
-        // pacific
         int m=heights.length;
         int n=heights[0].length;
-        int fixedI=0;
-        HashSet<ArrayList<Integer>> pacificSet=new HashSet<>();
+        boolean[][] pacific=new boolean[m][n];
+        boolean[][] atlantic=new boolean[m][n];
         for(int j=0;j<n;j++){
-            dfs(heights,pacificSet,fixedI,j,m,n);
+            dfs(heights,pacific,0,j,m,n);
+            dfs(heights,atlantic,m-1,j,m,n);
         }
-        int fixedJ=0;
         for(int i=0;i<m;i++){
-            dfs(heights,pacificSet,i,fixedJ,m,n);
+            dfs(heights,pacific,i,0,m,n);
+            dfs(heights,atlantic,i,n-1,m,n);
         }
-        //atlantic
-        HashSet<ArrayList<Integer>> atlanticSet=new HashSet<>();
-        fixedI=m-1;
-        for(int j=0;j<n;j++){
-            dfs(heights,atlanticSet,fixedI,j,m,n);
-        }
-        fixedJ=n-1;
-        for(int i=0;i<m;i++){
-            dfs(heights,atlanticSet,i,fixedJ,m,n);
-        }
-        pacificSet.retainAll(atlanticSet);
         List<List<Integer>> result=new ArrayList<>();
-        for(ArrayList<Integer> pair:pacificSet){
-            result.add(pair);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(pacific[i][j] && atlantic[i][j]){
+                    result.add(Arrays.asList(i,j));
+                }
+            }
         }
         return result;
     }
-    public void dfs(int[][] heights,HashSet<ArrayList<Integer>> set,int i,int j,int m,int n){
-        set.add(new ArrayList<>(Arrays.asList(i,j)));
+    public void dfs(int[][] heights,boolean[][] valid,int i,int j,int m,int n){
+        valid[i][j]=true;
         for(int[] dir:directions){
             int newI=i+dir[0];
             int newJ=j+dir[1];
-            if(newI>=m || newI<0 || newJ>=n || newJ<0 || set.contains(Arrays.asList(newI,newJ))){
+            if(newI>=m || newI<0 || newJ>=n || newJ<0 || valid[newI][newJ]==true){
                 continue ;
             }
             if(heights[newI][newJ]>=heights[i][j]){
-                dfs(heights,set,newI,newJ,m,n);
+                dfs(heights,valid,newI,newJ,m,n);
             }
         }
     }
