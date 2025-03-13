@@ -165,6 +165,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [0278-first-bad-version](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0278-first-bad-version) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -374,6 +376,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
 | ------- |
