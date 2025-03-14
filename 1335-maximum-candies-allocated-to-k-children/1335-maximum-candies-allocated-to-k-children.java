@@ -1,11 +1,12 @@
 class Solution {
     public int maximumCandies(int[] candies, long k) {
-        int  maxCandie=Integer.MIN_VALUE;
+        long candieSum=0;
         for(int candie:candies){
-            maxCandie=Math.max(candie,maxCandie);
+            candieSum+=candie;
         }
+        if(candieSum<k)return 0;
         int low=1;
-        int high=maxCandie;
+        int high=(int)(candieSum/k);
         int result=0;
         while(low<=high){
             int mid=low+(high-low)/2;
@@ -13,7 +14,6 @@ class Solution {
             for(int candie:candies){
                 childrenCanGet+=candie/mid;
             }
-            System.out.println(childrenCanGet);
             if(childrenCanGet>=k){
                 result=mid;
                 low=mid+1;
