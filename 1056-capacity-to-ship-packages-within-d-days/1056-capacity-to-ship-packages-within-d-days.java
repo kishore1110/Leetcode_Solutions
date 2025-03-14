@@ -9,11 +9,11 @@ class Solution {
         int result=0;
         while(low<=high){
             int limit=low+(high-low)/2;
-            int daysTakes=0;
+            int daysTakes=1;
             int currentSum=0;
             for(int weight:weights){
                 if(limit<weight){
-                    daysTakes=Integer.MAX_VALUE-1;
+                    daysTakes=Integer.MAX_VALUE;
                     break;
                 }
                 currentSum+=weight;
@@ -21,9 +21,10 @@ class Solution {
                     daysTakes++;
                     currentSum=weight;
                 }
+                if(daysTakes>days){
+                    break;
+                }
             }
-            daysTakes++;
-            System.out.println(limit+" "+daysTakes);
             if(daysTakes<=days){
                 result=limit;
                 high=limit-1;
