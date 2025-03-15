@@ -112,6 +112,7 @@
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -356,6 +357,7 @@
 | [0042-trapping-rain-water](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
