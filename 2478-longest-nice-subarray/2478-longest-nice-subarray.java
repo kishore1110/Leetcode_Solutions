@@ -5,8 +5,8 @@ class Solution {
         int maxLength=1;
         int right;
         for(right=0;right<nums.length;right++){
+            maxLength=Math.max(maxLength,right-left);
             while((nums[right]&condition)!=0){
-                maxLength=Math.max(maxLength,right-left);
                 condition^=nums[left];
                 left++;
             }
