@@ -6,6 +6,7 @@ class Solution {
                 if(i+2>=nums.length){
                     return -1;
                 }
+                nums[i]^=1;
                 nums[i+1]^=1;
                 nums[i+2]^=1;
                 flipCount++;
@@ -14,3 +15,25 @@ class Solution {
         return flipCount;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
