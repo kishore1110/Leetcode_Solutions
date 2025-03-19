@@ -6,13 +6,13 @@ class Solution {
             if(changed==0){
                 if(nums[i]==0){
                     flipCount++;
-                    changed^=1;
+                    changed=1;
                 }
             }
             else{
-                if((nums[i]^1)==0){
+                if(nums[i]==1){
                     flipCount++;
-                    changed^=1;
+                    changed=0;
                 }
             }
         }
