@@ -94,6 +94,7 @@
 | [0042-trapping-rain-water](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0063-unique-paths-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -306,6 +307,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -364,6 +366,7 @@
 | [0022-generate-parentheses](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
