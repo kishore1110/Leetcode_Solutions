@@ -200,6 +200,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0202-happy-number) |
@@ -362,6 +363,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -589,4 +591,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
