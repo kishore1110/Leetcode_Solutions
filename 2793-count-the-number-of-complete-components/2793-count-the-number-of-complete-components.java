@@ -41,7 +41,7 @@ class Solution {
     public int findParent(int node){
         int currentParent=parent[node];
         while(currentParent!=parent[currentParent]){
-            currentParent=parent[currentParent];
+            currentParent=parent[parent[currentParent]];
         }
         return currentParent;
     }
