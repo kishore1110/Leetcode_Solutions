@@ -1,6 +1,6 @@
 class Solution {
     public int countDays(int days, int[][] meetings) {
-        Arrays.sort(meetings,(a,b)->a[0]==b[0]?b[1]-a[1]:a[0]-b[0]);
+        Arrays.sort(meetings,(a,b)->a[0]-b[0]);
         int start=meetings[0][0];
         int end=meetings[0][1];
         int count=0;
