@@ -167,6 +167,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -244,6 +245,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -281,6 +283,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
