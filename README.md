@@ -311,6 +311,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Design
