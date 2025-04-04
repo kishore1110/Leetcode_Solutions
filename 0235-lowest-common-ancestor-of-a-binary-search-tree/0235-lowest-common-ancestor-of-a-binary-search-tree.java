@@ -13,14 +13,14 @@ class Solution {
         if(root==null || p==null || q==null){
             return null;  // base case
         }
+        if(root.val>=p.val && root.val<=q.val || root.val>=q.val && root.val<=p.val){
+            return root;
+        }
         if(Math.min(p.val,q.val)>root.val){
             return lowestCommonAncestor(root.right,p,q);
         }
-        else if(Math.max(p.val,q.val)<root.val){
-            return lowestCommonAncestor(root.left,p,q);
-        }
         else{
-            return root;
+            return lowestCommonAncestor(root.left,p,q);
         }
     }
 }
