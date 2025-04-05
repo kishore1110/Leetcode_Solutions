@@ -144,6 +144,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
@@ -232,6 +233,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -508,6 +510,7 @@
 | [0078-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0371-sum-of-two-integers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -620,6 +623,7 @@
 | [0216-combination-sum-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Queue
 |  |
@@ -653,4 +657,9 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
