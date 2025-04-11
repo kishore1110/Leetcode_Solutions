@@ -198,6 +198,7 @@
 | [0890-lemonade-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2681-put-marbles-in-bags](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -395,6 +396,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2465-shifting-letters-ii) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3447-clear-digits) |
@@ -530,6 +532,7 @@
 | [0768-partition-labels](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Trie
