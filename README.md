@@ -144,6 +144,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1940-maximum-xor-for-each-query](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -438,6 +439,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1940-maximum-xor-for-each-query](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -516,6 +518,7 @@
 | [0078-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0371-sum-of-two-integers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [1940-maximum-xor-for-each-query](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2478-longest-nice-subarray) |
