@@ -1,6 +1,6 @@
 class Solution {
     public String multiply(String num1, String num2) {
-        //normal our school multiplication but initution to find the destination index using input indes in difficul to identify
+        //normal our school multiplication but initution to find the destination index using input index is difficult to identify
         if(num1.equals("0") || num2.equals("0")){
             return "0";
         }
