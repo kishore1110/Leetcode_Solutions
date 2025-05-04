@@ -129,6 +129,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -294,6 +295,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -460,6 +462,7 @@
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
