@@ -148,6 +148,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2048-build-array-from-permutation](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2139-detect-squares](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2139-detect-squares) |
 | [2145-grid-game](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2145-grid-game) |
@@ -480,6 +481,7 @@
 | [0289-game-of-life](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
