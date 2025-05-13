@@ -248,6 +248,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -412,6 +414,7 @@
 | [3447-clear-digits](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -430,6 +433,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -474,6 +478,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
