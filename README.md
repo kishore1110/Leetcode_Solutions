@@ -44,6 +44,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Quickselect
 |  |
 | ------- |
@@ -606,6 +609,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
