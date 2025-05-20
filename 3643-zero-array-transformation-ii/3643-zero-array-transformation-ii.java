@@ -4,8 +4,7 @@ class Solution {
         int prefixSum=0;
         int index=0;
         int count=0;
-        while(index<nums.length && diff[index]+prefixSum>=nums[index]){ // if all nums are 0
-            prefixSum+=diff[index];
+        while(index<nums.length && nums[index]==0){ // if all nums are 0
             index++;
         }
         if(index>=nums.length){
