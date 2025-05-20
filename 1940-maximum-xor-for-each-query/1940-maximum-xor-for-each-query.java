@@ -1,17 +1,18 @@
 class Solution {
     public int[] getMaximumXor(int[] nums, int maximumBit) {
-       int totalXor=0;
-       int maxVal=(int)Math.pow(2,maximumBit)-1;
-       for(int i:nums){
-        totalXor^=i;
-       } 
-       int []result=new int[nums.length];
-       int index=0;
-       for(int i=nums.length-1;i>-1;i--){
-            result[index]=totalXor^maxVal;
-            index++;
-            totalXor^=nums[i];
-       }
-       return result;
+        int maxVal=(int)Math.pow(2,maximumBit)-1; //<k
+        int[] result=new int[nums.length];
+        int totalXor=0;
+        for(int num:nums){
+            totalXor^=num;
+        }
+        int last=nums.length-1;
+        for(int i=0;i<nums.length;i++){
+            result[i]=(totalXor^maxVal)&maxVal;
+            totalXor^=nums[last];
+            last--;
+        }
+        System.out.println(18^1);
+        return result;
     }
 }
