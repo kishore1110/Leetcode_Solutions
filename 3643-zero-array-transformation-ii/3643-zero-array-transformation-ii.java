@@ -17,9 +17,9 @@ class Solution {
             int val=query[2];
             if(r<index)continue;  // already they become zero
             l=Math.max(l,index);
-            diff[l]+=val;
-            diff[r+1]-=val;
-            while(index<nums.length && diff[index]+prefixSum>=nums[index]){
+            diff[l]-=val;
+            diff[r+1]+=val;
+            while(index<nums.length && prefixSum+diff[index]+nums[index]<=0){
                 prefixSum+=diff[index];
                 index++;
             }
