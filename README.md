@@ -200,6 +200,7 @@
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Greedy
@@ -216,6 +217,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -233,6 +235,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Quickselect
@@ -481,6 +485,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
