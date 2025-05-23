@@ -453,6 +453,7 @@
 | [0647-palindromic-substrings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
