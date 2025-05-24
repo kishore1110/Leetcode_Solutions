@@ -93,6 +93,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -276,6 +277,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -575,6 +577,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0202-happy-number) |
