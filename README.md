@@ -107,6 +107,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -451,6 +452,7 @@
 | [0062-unique-paths](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
