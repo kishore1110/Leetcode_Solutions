@@ -6,19 +6,17 @@ class Solution {
         }
         Arrays.sort(pairs,(a,b)->Integer.compare(a[0],b[0]));
         int carFleet=0;
-        double maxUnit=(double)(target-pairs[pairs.length-1][0])/pairs[pairs.length-1][1];
-        for(int i=pairs.length-2;i>=0;i--){
+        double maxUnit=0;
+        for(int i=pairs.length-1;i>=0;i--){
             int pos=pairs[i][0];
             int spd=pairs[i][1];
             double time=(double)(target-pos)/spd;
-            if(time<=maxUnit){
+            if(time>maxUnit){
                 carFleet++;
-            }
-            else{
                 maxUnit=time;
             }
         }
-        return pairs.length-carFleet;
+        return carFleet;
         //better solution
         //     int res = 0;
         // double[] timeArr = new double[target];
