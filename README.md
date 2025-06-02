@@ -64,6 +64,7 @@
 | [0695-max-area-of-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
@@ -128,6 +129,7 @@
 | [0854-making-a-large-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0890-lemonade-change) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -398,6 +400,7 @@
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1396-count-servers-that-communicate](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1876-map-of-highest-peak) |
@@ -572,6 +575,7 @@
 | [0078-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0371-sum-of-two-integers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1940-maximum-xor-for-each-query](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
