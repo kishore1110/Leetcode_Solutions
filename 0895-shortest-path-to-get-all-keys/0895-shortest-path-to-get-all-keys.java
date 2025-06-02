@@ -54,6 +54,11 @@ class Solution {
         return -1;
     }
     public boolean check(int keyMask,int total){
-        return keyMask == (1 << total) - 1;
+        int count=0;
+        while(keyMask>0){
+            count+=(keyMask&1);
+            keyMask=keyMask>>1;
+        }
+        return count==total;
     }
 }
