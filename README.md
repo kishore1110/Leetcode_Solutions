@@ -576,6 +576,7 @@
 | [0090-subsets-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0371-sum-of-two-integers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1940-maximum-xor-for-each-query](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
