@@ -432,6 +432,7 @@
 | [0768-partition-labels](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
+| [1250-longest-common-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -471,6 +472,7 @@
 | [0647-palindromic-substrings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1250-longest-common-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
