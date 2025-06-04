@@ -211,6 +211,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0394-decode-string) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -591,6 +593,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -746,4 +749,5 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 <!---LeetCode Topics End-->
