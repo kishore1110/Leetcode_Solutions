@@ -6,9 +6,10 @@ class Solution {
         for(int num:nums){
             totalSum*=num;
         }
-        return backtrack(nums,0,target,totalSum,1,0);
+        HashMap<String,Boolean> memo=new HashMap<>();
+        return backtrack(nums,0,target,totalSum,1,0,memo);
     }
-    public boolean backtrack(int[] nums,int index,long target,long totalSum,long curr,int count){
+    public boolean backtrack(int[] nums,int index,long target,long totalSum,long curr,int count,HashMap<String,Boolean> memo){
         if(curr>target){
             return false;
         }
@@ -18,6 +19,12 @@ class Solution {
         if(index>=nums.length){
             return false;
         }
-        return backtrack(nums,index+1,target,totalSum,curr*nums[index],count+1) || backtrack(nums,index+1,target,totalSum,curr,count);
+        String key=index+","+curr;
+        if(memo.containsKey(key)){
+            return memo.get(key);
+        }
+        boolean ans=backtrack(nums,index+1,target,totalSum,curr*nums[index],count+1,memo) || backtrack(nums,index+1,target,totalSum,curr,count,memo);
+        memo.put(key,ans);
+        return ans;
     }
 }
