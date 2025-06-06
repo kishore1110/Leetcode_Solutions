@@ -36,7 +36,7 @@ public class Solution {
 
         if (grid[rows - 1][cols - 1] == '*') return 0;
 
-        int steps = 1;
+        int steps = 0;
 
         // BFS to find the shortest path
         while (!queue.isEmpty()) {
@@ -44,21 +44,21 @@ public class Solution {
             for (int i = 0; i < size; i++) {
                 int[] loc = queue.poll();
                 int r = loc[0], c = loc[1];
-
+                if(r==rows-1 && c==cols-1)return steps;
                 for (int[] dir : DIRS) {
                     int newR = r + dir[0], newC = c + dir[1];
 
                     if (isValid(newR, newC, grid)) {
                         if (grid[newR][newC] == '.') {
                             grid[newR][newC] = '*';
-                            if (newR == rows - 1 && newC == cols - 1) return steps;
+                            // f (newR == rows - 1 && newC == cols - 1) return steps;
                             queue.offer(new int[]{newR, newC});
                         } else if (Character.isLetter(grid[newR][newC])) {
                             for (int[] portal : charLocations.get(grid[newR][newC])) {
                                 if (grid[portal[0]][portal[1]] != '*') {
                                     queue.offer(portal);
                                     grid[portal[0]][portal[1]] = '*';
-                                    if (portal[0] == rows - 1 && portal[1] == cols - 1) return steps;
+                                    // if (portal[0] == rows - 1 && portal[1] == cols - 1) return steps;
                                 }
                             }
                         }
