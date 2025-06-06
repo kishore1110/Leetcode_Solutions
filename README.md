@@ -126,6 +126,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -476,6 +477,7 @@
 | [0198-house-robber](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -713,6 +715,7 @@
 | [0078-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
