@@ -147,6 +147,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1139-previous-permutation-with-one-swap](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1139-previous-permutation-with-one-swap) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -227,6 +228,7 @@
 | [0621-task-scheduler](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0890-lemonade-change) |
+| [1139-previous-permutation-with-one-swap](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1139-previous-permutation-with-one-swap) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
