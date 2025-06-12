@@ -221,6 +221,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3837-grid-teleportation-traversal](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3837-grid-teleportation-traversal) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
 |  |
@@ -285,6 +286,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -660,6 +662,7 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Graph
 |  |
 | ------- |
@@ -773,6 +776,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 |  |
 | ------- |
