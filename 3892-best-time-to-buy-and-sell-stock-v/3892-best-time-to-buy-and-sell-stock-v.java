@@ -8,14 +8,14 @@ class Solution {
                 Arrays.fill(ar,-1);
             }
         }
-        for(int i=1;i<=k;i++){
-            ans=Math.max(ans,dp(prices,0,2*i,2,memo));
-        }
-        return ans;
+        // for(int i=1;i<=k;i++){
+        //     ans=Math.max(ans,dp(prices,0,2*i,2,memo));
+        // }
+        return dp(prices,0,2*k,2,memo);
     }
     public long dp(int[] prices,int index,int k,int condition,long[][][] memo){
         if(index>=prices.length || k==0){
-            if(k!=0 || condition!=2)return Integer.MIN_VALUE/2;
+            if(condition!=2)return Integer.MIN_VALUE/2;
             return 0;
         }
         if(memo[index][k][condition]!=-1){
