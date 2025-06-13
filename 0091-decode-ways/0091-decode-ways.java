@@ -17,8 +17,9 @@ class Solution {
         int ans=0;
         ans+=dp(s,index+1,memo);
         if (index + 1 < s.length()) {
-            int num = Integer.parseInt(s.substring(index, index + 2));
-            if (num >= 10 && num <= 26) {
+            if (s.charAt(index) == '1') {
+                ans += dp(s, index + 2, memo);
+            } else if (s.charAt(index) == '2' && s.charAt(index + 1) >= '0' && s.charAt(index + 1) <= '6') {
                 ans += dp(s, index + 2, memo);
             }
         }
