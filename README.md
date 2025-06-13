@@ -126,6 +126,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -496,6 +497,7 @@
 | [0198-house-robber](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0647-palindromic-substrings) |
