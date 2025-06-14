@@ -237,6 +237,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2681-put-marbles-in-bags](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -285,6 +286,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
