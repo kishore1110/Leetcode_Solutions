@@ -116,6 +116,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -342,6 +343,7 @@
 | [0076-minimum-window-substring](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0202-happy-number) |
 | [0355-design-twitter](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0355-design-twitter) |
 | [0525-contiguous-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -454,6 +456,7 @@
 | [0043-multiply-strings](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -498,6 +501,7 @@
 | [0070-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0322-coin-change) |
@@ -655,6 +659,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -783,6 +788,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
