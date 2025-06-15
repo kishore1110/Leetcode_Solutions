@@ -7,19 +7,18 @@ class Solution {
         return dfs(coins,0,amount,memo);
     }
     public int dfs(int[] coins,int index,int amount,int[][] memo){
-        if(amount<0){
-            return 0;
-        }
         if(amount==0){
             return 1;
+        }
+        if(index>=coins.length || amount<0){
+            return 0;
         }
         if(memo[index][amount]!=-1){
             return memo[index][amount];
         }
         int ans=0;
-        for(int i=index;i<coins.length;i++){
-            ans+=dfs(coins,i,amount-coins[i],memo);
-        }
+        ans+=dfs(coins,index,amount-coins[index],memo);
+        ans+=dfs(coins,index+1,amount,memo);
         memo[index][amount]=ans;
         return ans;
     }
