@@ -234,6 +234,7 @@
 | [0768-partition-labels](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1139-previous-permutation-with-one-swap](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1139-previous-permutation-with-one-swap) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -280,6 +281,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
