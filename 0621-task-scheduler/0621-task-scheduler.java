@@ -1,12 +1,12 @@
 class Solution {
     public int leastInterval(char[] tasks, int n) {
-        HashMap<Character,Integer> map=new HashMap<>();
-        for(char str:tasks){
-            map.put(str,map.getOrDefault(str,0)+1);
+        int[] fq=new int[26];
+        for(char ch:tasks){
+            fq[ch-'A']++;
         }
         PriorityQueue<Integer> maxHeap=new PriorityQueue<>((a,b)->Integer.compare(b,a));
-        for(int value:map.values()){
-            maxHeap.offer(value);
+        for(int value:fq){
+            if(value!=0)maxHeap.offer(value);
         }
         Queue<int[]> queue=new ArrayDeque<>();
         int time=0;
