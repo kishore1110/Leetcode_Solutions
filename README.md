@@ -184,6 +184,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -240,6 +241,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2681-put-marbles-in-bags](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -327,6 +329,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Kishore2749/My-leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
