@@ -9,7 +9,7 @@ class Solution {
     }
     public int dp(int[] prices,int index,int trans,int[][] memo){
         if(index>=prices.length){
-            if(trans==1)return Integer.MIN_VALUE/2;
+            // if(trans==1)return Integer.MIN_VALUE/2;
             return 0;
         }
         if(memo[index][trans]!=-1){
